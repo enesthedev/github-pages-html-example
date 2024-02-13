@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;     
+}
+
+body{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.MENU{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px ;
+    margin: 30px 10px;
+}
+
+h1{
+    padding: 130px 500px 0px 500px;
+    font-size: 40px;
+}
+
+.ÇALIŞMALARIM{
+    font-size: 25px ;
+}
+
+.BILGILER{
+    padding: 30px 20px;
+    margin: 100px 200px;
+    font-size: 30px; 
+    border: 2px solid black ;
+    background-color: rgb(194, 212, 228);
+}
+
+.ÇALIŞMALARIM h2{
+    font-size: 20px;
+}

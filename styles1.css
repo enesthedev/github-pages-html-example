@@ -1,0 +1,272 @@
+*{
+    margin: 0;
+    padding: 0;     
+}
+
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(235, 234, 234);
+}
+
+h1{
+    font-size: 30px;
+    margin: 30px 0 20px 40px;
+}
+
+.ÇIZGI-GÖLGE-ÇALIŞMASI{
+    padding: 10px 40px ;
+    margin: 10px 40px;
+    font-size: 20px;
+}
+.A3{
+    padding: 10px 0px;
+    font-size: 20px;
+}
+.ÇIZGI{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.GÖLGE{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.ÇIZGI-GÖLGE{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+
+.ÇIFT-VE-TEK-KAÇIŞ-NOKTASI-ÇALIŞMASI{
+    padding: 10px 40px ;
+    margin: 10px 40px;
+    font-size: 20px;
+}
+.A4{
+    padding: 10px 0px;
+    font-size: 20px;
+}
+.TEK{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.ÇIFT{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+
+.STRÜKTÜR-ÇALIŞMASI{
+    padding: 10px 40px ;
+    margin: 10px 40px;
+    font-size: 20px;
+}
+.A5{
+    padding: 10px 0px;
+    font-size: 20px;
+}
+.ÖNDEN{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.ÜSTTEN{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.RESIMLER1{
+    display: flex;
+    justify-content: space-between;  
+}
+
+.LEKE-ÇALIŞMASI{
+    padding: 10px 40px ;
+    margin: 10px 40px;
+    font-size: 20px;
+}
+.A6{
+    padding: 10px 0px;
+    font-size: 20px;
+}
+.LEKE{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.KOMPOZISYON{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+
+
+.MASK-ÇALIŞMASI{
+    padding: 10px 40px ;
+    margin: 10px 40px;
+    font-size: 20px;
+}
+.RESIMLER2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.A7{
+    padding: 10px 0px;
+    font-size: 20px;
+}
+.G1{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.G2{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.G3{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.G4{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.G5{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+
+.MAKET{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+    font-size: 20px;
+}
+.A8{
+    padding: 10px 0px;
+    font-size: 20px;
+}
+.RESIMLER3{
+    display: flex;
+    justify-content: space-between;
+}
+.R1{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.R2{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.R3{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.R4{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.R5{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.R6{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.R7{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.R8{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+
+.DERINLIK{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+    font-size: 20px;
+}
+.A9{
+    padding: 10px 0px;
+    font-size: 20px;
+}
+.R9{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.R10{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+
+.BOYUT{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+    font-size: 20px;
+}
+.A10{
+    padding: 10px 0px;
+    font-size: 20px;
+}
+.R11{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.R12{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+
+.PLAN-PERSPEKTIF{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+    font-size: 20px;
+}
+.A11{
+    padding: 10px 0px;
+    font-size: 20px;
+}
+.R13{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.R14{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+
+.BINA-BILGISI-2{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+    font-size: 20px;
+}
+.A12{
+    padding: 10px 0px;
+    font-size: 20px;
+}
+.R15{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.R16{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.R17{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.R18{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.R19{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.R20{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.R21{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
+.R22{
+    padding: 0px 40px ;
+    margin: 0px 40px;
+}
